@@ -19,3 +19,4 @@ If you are running this in VSCode you may use the jupyter notebook extension by 
 
 Once you have jupyter notebook extension installed, you can open the lab2.ipynb file and click the 'run all' button at the top of your editor
  
+To do this, you will have to configure your python kernel to run the code, when you click 'run all', select 'python environments', then select the first python interpreter listed, this should be python 3.8.10 (Recommended)
